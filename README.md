@@ -32,5 +32,5 @@ I'm a Software Engineer and Reseracher working at the University of Amsterdam ðŸ
                                              
 Check out Blade Dash for my latest Unreal 5 feat &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and Ludoscope Mini for an awesome PCG tool I built for 2D tile maps            
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=BladeDah)](https://github.com/GeorgiaSamaritaki/BladeDash)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=Ludoscope-Mini)](https://github.com/GeorgiaSamaritaki/Ludoscope-Mini)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=BladeDash)](https://github.com/GeorgiaSamaritaki/BladeDash)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=Ludoscope-Mini)](https://github.com/GeorgiaSamaritaki/Ludoscope-Mini)
 
