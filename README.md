@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey 👋, I'm Georgia
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/georgia-sam/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samaritakigeorgia@gmail.com)](mailto:samaritakigeorgia@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.notion.so/georgiasamaritaki/Portfolio-Georgia-Samaritaki-2dec31fe27704eafa97f03dc8c4ad898)](https://www.notion.so/georgiasamaritaki/Portfolio-Georgia-Samaritaki-2dec31fe27704eafa97f03dc8c4ad898) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/GeorgiaSmrt)](https://x.com/GeorgiaSmrt) 
 <!--
 **GeorgiaSamaritaki/GeorgiaSamaritaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=GeorgiaSamaritaki&label=Profile%20views&color=0e75b6&style=flat" alt="GeorgiaSamaritaki" /> ![GitHub followers](https://img.shields.io/github/followers/GeorgiaSamaritaki) ![GitHub User's stars](https://img.shields.io/github/stars/GeorgiaSamaritaki)
+
+I'm a Software Engineer and Reseracher working at the University of Amsterdam 🏛. Whenever the fabric of reality allows me some time I am a game dev 🎮 and avid coder ✨.
+
+### More about me:
+
+- 🔭 I’m currently working on 1 unannounced game
+- 💬 My favorite words are: Games, DSLs, Procedural Content Generation, Game Engines, C++ and Haskell  
+- 🤔 I’m looking for help with dynamic difficulty adjustment AI algorithms 
+- 🌐 Visit my [porfolio website](https://www.notion.so/georgiasamaritaki/Portfolio-Georgia-Samaritaki-2dec31fe27704eafa97f03dc8c4ad898) for all the cool stuff I have built along with my resume.
+- 📫 How to reach me: I respond faster with [✉️ emails](mailto:samaritakigeorgia@gmail.com)
+- 😄 Pronouns: she/her
+
