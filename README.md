@@ -21,10 +21,16 @@ I'm a Software Engineer and Reseracher working at the University of Amsterdam �
 
 ### More about me:
 
-- 🔭 I’m currently working on 1 unannounced game
-- 💬 My favorite words are: Games, DSLs, Procedural Content Generation, Game Engines, C++ and Haskell  
+- 🔭 I’m currently working on an unannounced game (yay)
+- 🔬 Researching in the field of AI and Games
+- 💬 My favourite words are: Games, DSLs, Procedural Content Generation, Game Engines, C++ and Haskell  
 - 🤔 I’m looking for help with dynamic difficulty adjustment AI algorithms 
 - 🌐 Visit my [porfolio website](https://www.notion.so/georgiasamaritaki/Portfolio-Georgia-Samaritaki-2dec31fe27704eafa97f03dc8c4ad898) for all the cool stuff I have built along with my resume.
-- 📫 How to reach me: I respond faster with [✉️ emails](mailto:samaritakigeorgia@gmail.com)
+- 📫 I respond faster with [emails ✉️](mailto:samaritakigeorgia@gmail.com)
 - 😄 Pronouns: she/her
+
+                                             
+Check out Blade Dash for my latest Unreal 5 feat &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and Ludoscope Mini for an awesome PCG tool I built for 2D tile maps            
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=BladeDash)](https://github.com/GeorgiaSamaritaki/BladeDash)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=Ludoscope-Mini)](https://github.com/GeorgiaSamaritaki/Ludoscope-Mini)
 
