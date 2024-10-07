@@ -30,7 +30,6 @@ I'm a Software Engineer and Reseracher working at the University of Amsterdam ðŸ
 - ðŸ˜„ Pronouns: she/her
 
                                              
-Check out Blade Dash for my latest Unreal 5 feat &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and Ludoscope Mini for an awesome PCG tool I built for 2D tile maps            
-
+Check out my favorite repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=BladeDash)](https://github.com/GeorgiaSamaritaki/BladeDash)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeorgiaSamaritaki&repo=Ludoscope-Mini)](https://github.com/GeorgiaSamaritaki/Ludoscope-Mini)
 
