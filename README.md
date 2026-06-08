@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=GeorgiaSamaritaki&label=Profile%20views&color=0e75b6&style=flat" alt="GeorgiaSamaritaki" /> ![GitHub followers](https://img.shields.io/github/followers/GeorgiaSamaritaki) ![GitHub User's stars](https://img.shields.io/github/stars/GeorgiaSamaritaki)
 
-I'm a Software Engineer and Reseracher working at the University of Amsterdam 🏛. Whenever the fabric of reality allows me some time I am a game dev 🎮 and avid coder ✨.
+I'm a Game Developer and Reseracher. 
 
 ### More about me:
 
-- 🔭 I’m currently working on an unannounced game (yay)
+- 🔭 I’m currently working on Infinity Rising
 - 🔬 Researching in the field of AI and Games
 - 💬 My favourite words are: Games, DSLs, Procedural Content Generation, Game Engines, C++ and Haskell  
 - 🤔 I’m looking for help with dynamic difficulty adjustment AI algorithms 
